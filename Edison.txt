@@ -1,0 +1,7 @@
+Datos basicos
+
+Nombre: Edison Vasquez
+Fecha de nacimiento: 16 de noviembre 1990
+Estado civil: Casado
+Direccion: Cra 3 # 28 N 45 
+Profesion: Ingeniero de Sistemas

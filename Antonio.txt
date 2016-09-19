@@ -1,0 +1,7 @@
+Datos basicos
+
+Nombre: Antonio Vasquez
+Fecha de nacimiento: 28 de Noviembre
+Estado civil: Casado
+Direccion: Cra 3 # 28 N 45 
+Profesion: Pensionado
